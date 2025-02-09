@@ -1,7 +1,7 @@
-# 2025-ITELEC2-LAB005
+# 2025-ITELEC2-WK02S01E03
 Week 02 - Python Variables, Operators and I/O Statements
 
-Laboratory # 05 - Arithmetic Operators and Operator Precedence in Python
+Exercise # 03 - Arithmetic Operators and Operator Precedence in Python
 
 ## **Instructions**
 
@@ -77,7 +77,7 @@ Only perform this if this is the first time you will setup your Git Environment
 
 ### **Step 3: Complete the Assignment**
 
-**Laboratory # 05 - Arithmetic Operators and Operator Precedence in Python**
+**Exercise # 03 - Arithmetic Operators and Operator Precedence in Python**
 
    **Objective:**
    - Familiarize you with Python's arithmetic operators (+, -, *, /, %, //, **).
@@ -109,14 +109,6 @@ Result of (a + b - c) * (a / b): 24.0
    - / performs standard division resulting in a float.
    - // performs floor division resulting in an integer (discarding the decimal part).
 
-   **Python Best Practices**
-   - Names Matter: Give your variables good names so you (and others) can understand your code.
-   - Plan It Out: Break down big problems into smaller, easier steps.
-   - Order Matters: Python follows rules for which operations happen first (precedence). Parentheses help you control that order.
-   - Test Your Work: Check if your code does what you expect!
-   - Different Divisions: / gives you decimals, // gives you whole numbers. Know the difference!
-   - Practice Makes Perfect: The more you code, the better you'll get.
-   
    **Step-by-Step Instructions:**
 
    1. Setting up: Open your preferred Python environment or Text Editor, and create a Python Script.
